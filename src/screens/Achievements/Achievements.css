@@ -1,0 +1,52 @@
+.achievements {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    315deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(45, 176, 184, 1) 0%,
+    rgba(92, 176, 181, 1) 100%
+  );
+}
+.moto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding-bottom: 60px;
+  width: 35%;
+  text-align: center;
+  margin-left: 600px;
+}
+.moto-content {
+  color: white;
+  font-size: 18px;
+}
+span {
+  font-size: 18px;
+}
+.row-1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.row-2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 100px;
+}
+.row-contents {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+}
+.divide {
+  height: 2;
+  background-color: white;
+  width: 80%;
+}
+.moto-full {
+  padding-top: 130px;
+}
+.moto-title {
+  padding-bottom: 20px;
+}
