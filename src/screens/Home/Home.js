@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "../../components/NavBar/NavBar";
-import Titlepage from "../Opening/Titlepage";
+import TitlePage from "../Opening/TitlePage";
 import Feature from "../Feature/Feature";
 import Achievements from "../Achievements/Achievements";
 import Advancement from "../Advancement/Advancement";
@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div>
       <NavBar />
-      <Titlepage />
+      <TitlePage />
       <Feature />
       <Achievements />
       <Advancement />
