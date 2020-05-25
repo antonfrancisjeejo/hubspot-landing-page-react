@@ -1,0 +1,92 @@
+.img-1 {
+  width: 80px;
+  height: 15px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+.img-2 {
+  width: 80px;
+  height: 15px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.img-3 {
+  width: 100px;
+  height: 30px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+}
+.img-4 {
+  width: 150px;
+  height: 50px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+.img-5 {
+  width: 100px;
+  height: 40px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+.img-6 {
+  width: 120px;
+  height: 18px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+.img-7 {
+  width: 100px;
+  height: 40px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+.img-8 {
+  width: 100px;
+  height: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.companies {
+  display: flex;
+}
+.about {
+  width: 80%;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+.customers {
+  width: 25%;
+  margin-right: 300px;
+}
+.about-block {
+  width: 30%;
+  margin-top: 2%;
+}
+.about-content {
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(58, 91, 119);
+  padding-bottom: 3%;
+}
+.free-about-button {
+  padding: 20px 30px;
+  opacity: 0.9;
+}
+.free-about-button:hover {
+  opacity: 0.5;
+}
+.free-about {
+  font-size: 13px;
+  text-align: justify;
+  margin-top: 5%;
+  color: rgb(58, 91, 119);
+}
+.about-1 {
+  display: flex;
+  margin-top: 100px;
+}
+.customer-image {
+  width: 300px;
+  margin-left: 300px;
+}
